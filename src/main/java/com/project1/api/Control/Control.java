@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.project1.api.Model.User;
 
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
